@@ -16,6 +16,7 @@ Thumbs.db
 
 # Environment variables
 .env
+app.env
 
 # Go workspace
 go.work
