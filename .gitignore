@@ -1,0 +1,27 @@
+# Binaries
+/bin
+/dist
+/build
+main
+be-job-portal
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+
+# Go workspace
+go.work
+
+# Vendor
+vendor/
+
+# Test results
+coverage.out
